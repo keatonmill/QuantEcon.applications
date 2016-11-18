@@ -8,4 +8,4 @@ You can run the Python and Julia notebooks in the same environment.
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/QuantEcon/QuantEcon.applications)
 
-If you come across any issues. Please add them to the issue tracker. 
+If you come across any issues. Please add them to the issue tracker. Testing an addition.
